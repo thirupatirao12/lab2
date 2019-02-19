@@ -1,4 +1,3 @@
 
-hi
-hellow
-welcome to party
+HI
+How are you
